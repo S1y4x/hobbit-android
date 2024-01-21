@@ -1388,14 +1388,14 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: -0.036190033, y: 0.07061547}
-      - {x: -0.081256226, y: 0.03356997}
-      - {x: -0.08251245, y: 0.0039673075}
-      - {x: -0.00859455, y: -0.07125623}
-      - {x: 0.0109585, y: -0.0712562}
-      - {x: 0.08125599, y: -0.003520295}
-      - {x: 0.08325386, y: 0.030334085}
-      - {x: 0.046082094, y: 0.0687438}
+    - - {x: -0.037098408, y: 0.06678355}
+      - {x: -0.076933935, y: 0.027950741}
+      - {x: -0.07732566, y: 0.0026705489}
+      - {x: -0.00859455, y: -0.067798264}
+      - {x: 0.008797236, y: -0.06823049}
+      - {x: 0.077318266, y: 0.0017301291}
+      - {x: 0.07756591, y: 0.029021472}
+      - {x: 0.039518908, y: 0.066118576}
 --- !u!60 &750397344
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -1590,7 +1590,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 5e9875e7eec5ac44fb5e75dcc599ce1b, type: 3}
+    m_Font: {fileID: 12800000, guid: 5c3bf881385b6384ca839ab27a889705, type: 3}
     m_FontSize: 128
     m_FontStyle: 0
     m_BestFit: 1
@@ -3528,7 +3528,7 @@ TilemapCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: -0.01}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0.00001
 --- !u!1 &1049230706
@@ -4222,7 +4222,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 5e9875e7eec5ac44fb5e75dcc599ce1b, type: 3}
+    m_Font: {fileID: 12800000, guid: 5c3bf881385b6384ca839ab27a889705, type: 3}
     m_FontSize: 128
     m_FontStyle: 0
     m_BestFit: 1
